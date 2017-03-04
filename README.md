@@ -10,7 +10,7 @@ This is a forked application from [EdgeDeflector](https://github.com/da2x/EdgeDe
 
 本家と全く同じなので,日本語訳を書きます
 
-  1. [リリースページ](https://github.com/clockvoid/EdgeAndBingDeflector/releases/tag/v1.0) よりexeファイルをダウンロードします.
+  1. [リリースページ](https://github.com/clockvoid/EdgeAndBingDeflector/releases/tag/v1.0.0.0) よりexeファイルをダウンロードします.
   2. ダウンロードしたexeファイルを`C:\Program Files\EdgeAndBingDeflector\`など,変更のかかりづらいところにコピーします.
   3. コピーしたexeファイルをダブルクリックして実行します.この時,管理者権限を必要とします.
   4. 出てきたダイアログ中で,`EdgeAndBingDeflector`を選択し,`常にこのアプリを使う`にチェックして`OK`を押します.
@@ -26,3 +26,10 @@ This is a forked application from [EdgeDeflector](https://github.com/da2x/EdgeDe
 # Usage
 
 上のインストール作業を行った後,Cortanaから検索すると,あら不思議,いつも自分が使っているブラウザでGoogle検索します.
+
+# Credits
+
+Thanks for your ideas and kindness!!
+
+ - [EdgeDeflector](https://github.com/da2x/EdgeDeflector "EdgeDeflector")
+  * [Daniel Aleksandersen](https://github.com/da2x)
